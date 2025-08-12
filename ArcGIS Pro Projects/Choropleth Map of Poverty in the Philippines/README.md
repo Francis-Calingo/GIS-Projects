@@ -73,11 +73,11 @@ Other elements:
 
 Below illustrates the approximate workflow of ArcGIS Pro's Table Join, which takes the shared geographic field from both the csv file containing the data and the Shapefile containing the spatial data, and generates the polygon layer (i.e., the region shapes coloured by wage gap) of the choropleth map.
 
-<img src="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/ERD%20Shapefile%20Excel%20ArcGIS.jpeg"/>
+<img src="./ERD%20Shapefile%20Excel%20ArcGIS.jpeg"/>
 
 [Link to website to download zipfile for the Shapefile](https://data.humdata.org/dataset/cod-ab-phl)
 
-[Link to CSV for wage gap data](https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/Data/PH%20Wage%20Gap-December%202024.csv)
+[Link to CSV for wage gap data](https://github.com/Francis-Calingo/ArcGIS-Maps/raw/refs/heads/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines/Data/PH%20Wage%20Gap-December%202024.csv)
 
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
@@ -86,7 +86,7 @@ Below illustrates the approximate workflow of ArcGIS Pro's Table Join, which tak
 
 ## Results
 
-<img src="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map/blob/main/Layout_PH-Poverty.jpg"/>
+<img src="./Layout_PH-Poverty.jpg"/>
 
 <i> <b>IMAGE DESCRIPTION:</b> Choropleth map of the Philippines covering poverty-related data, showing wage gap by regions, red points that represent the most impoverished cities, and dashed lines demarcating the three main island groups. With regards to the map design, even though the compass symbol and scale were not important in the context of this analysis, they were nevertheless resized and repositioned in a way that reduced whitespace as much as possible. Despite not being of the same administrative levels as provinces, regions, countries, etc., their font sizes were nevertheless resized as such to make their geographic location on the map more prominent (as they are important to the analysis). The choropleth colour scheme involved different tones of just one colour, as the region-by-region analysis only focused on one factor (wage gap).</i>
 
