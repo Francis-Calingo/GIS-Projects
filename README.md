@@ -1,5 +1,7 @@
 # GIS Maps
 
+---
+
 # ArcGIS Pro Projects
 
 ## Transit and Healthcare Accessibility for the Toronto Filipino Community
@@ -9,6 +11,8 @@
 ## Choropleth Map of Poverty in the Philippines
 
 [Link to GitHub Repo](https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map)
+
+---
 
 # ArcGIS StoryMaps
 
