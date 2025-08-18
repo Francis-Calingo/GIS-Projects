@@ -55,7 +55,7 @@ ArcGIS Pro choropleth map of wage gap (i.e., discrepancy between minimum wage an
 
 Interactive StoryMap showing the distribution of Philippine regional languages, and their endangered status.
 
+[Link to StoryMap](https://storymaps.arcgis.com/stories/44ef21a201d04242942a9573d5d62919)
+
 *PREVIEW:*
 
-
-[Link to StoryMap]()
