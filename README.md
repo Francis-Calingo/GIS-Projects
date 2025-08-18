@@ -1,5 +1,9 @@
 # GIS Maps
 
+Various maps created using ArcGIS technology.
+
+# Table of Contents
+
 ---
 
 # ArcGIS Pro Projects
