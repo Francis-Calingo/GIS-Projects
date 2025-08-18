@@ -63,4 +63,6 @@ Interactive StoryMap showing the distribution of Philippine regional languages, 
 
 *PREVIEW:*
 
+<img src="./ArcGIS StoryMaps/StoryMap-PH-Lang.gif"/>
+
 [<b>Back to Table of Contents</b>](#table-of-contents)
