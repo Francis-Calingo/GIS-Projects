@@ -18,7 +18,7 @@ Map of Toronto, with the 10 busiest bus lines from 2023 and locations of hospita
 
 *PREVIEW:*
 
-<img src="./Toronto-Transit-Hospital-Filipino-Map.jpeg"/>
+<img src="./ArcGIS Pro Projects/Healthcare and Transit Toronto Filipinos/Toronto-Transit-Hospital-Filipino-Map.jpeg"/>
 
 ## Choropleth Map of Poverty in the Philippines
 
@@ -32,10 +32,16 @@ Choropleth map
 
 [Link to GitHub Repo](https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map)
 
+*PREVIEW:*
+
+
 ---
 
 # ArcGIS StoryMaps
 
 ## Decline of Philippine Regional Languages
+
+*PREVIEW:*
+
 
 [Link to StoryMap]()
