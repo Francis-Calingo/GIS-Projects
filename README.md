@@ -14,8 +14,11 @@ Map of Toronto, with the 10 busiest bus lines from 2023 and locations of hospita
 | Line | Lines approximating the routes of Toronto's busiest bus routes | Red lines with varying degrees of thickness, thicker lines representing busier routes | 10 |
 | Point | Hospital locations | White dots with heart symbol inside | 37 |
 
-
 [Link to GitHub Repo](https://github.com/Francis-Calingo/Transit-and-Healthcare-Accessibility-in-the-Toronto-Filipino-Communities)
+
+*PREVIEW:*
+
+<img src="./Toronto-Transit-Hospital-Filipino-Map.jpeg"/>
 
 ## Choropleth Map of Poverty in the Philippines
 
