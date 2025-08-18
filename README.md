@@ -4,6 +4,12 @@ Various maps created using ArcGIS technology.
 
 # Table of Contents
 
+* [ArcGIS Pro Projects](#ArcGIS-Pro-Projects)
+  * [Transit and Healthcare Accessibility for the Toronto Filipino Community](#Transit-and-Healthcare-Accessibility-for-the-Toronto-Filipino-Community)
+  * [Choropleth Map of Poverty in the Philippines](#Choropleth-Map-of-Poverty-in-the-Philippines)
+* [ArcGIS StoryMaps](#ArcGIS-StoryMaps)
+  * [Decline of Philippine Regional Languages](#Decline-of-Philippine-Regional-Languages)
+
 ---
 
 # ArcGIS Pro Projects
