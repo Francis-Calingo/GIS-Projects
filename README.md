@@ -30,6 +30,8 @@ Map of Toronto, with the 10 busiest bus lines from 2023 and locations of hospita
 
 <img src="./ArcGIS Pro Projects/Healthcare and Transit Toronto Filipinos/Toronto-Transit-Hospital-Filipino-Map.jpeg"/>
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 ## Choropleth Map of Poverty in the Philippines
 
 ArcGIS Pro choropleth map of wage gap (i.e., discrepancy between minimum wage and family living wage, as per [IBON Foundation's calculations as of December 2024](https://www.ibon.org/flw-regl-2412/)) and family poverty rate (i.e., cities with the highest % of families living in poverty in the first semester of 2023, [as per the Philippines Statistics Authority](https://github.com/Francis-Calingo/ArcGIS-Maps/blob/main/ArcGIS%20Pro%20Projects/Choropleth%20Map%20of%20Poverty%20in%20the%20Philippines/Data/2023%201st%20Sem%20Official%20Poverty%20Statistics%20Report.pdf)).
@@ -47,6 +49,8 @@ ArcGIS Pro choropleth map of wage gap (i.e., discrepancy between minimum wage an
 
 <img src="./ArcGIS Pro Projects/Choropleth Map of Poverty in the Philippines/Layout_PH-Poverty.jpg"/>
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 ---
 
 # ArcGIS StoryMaps
@@ -59,3 +63,4 @@ Interactive StoryMap showing the distribution of Philippine regional languages, 
 
 *PREVIEW:*
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
