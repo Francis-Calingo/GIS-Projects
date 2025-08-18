@@ -67,7 +67,7 @@ cd Transit-and-Healthcare-Accessibility-in-the-Toronto-Filipino-Communities
 ---
 
 # Results
-![Brief Snapshot of Filipino Community in Toronto](https://github.com/user-attachments/assets/3c8202ea-58a0-4506-a346-e3a132873165)
+<img src="./Toronto-Transit-Hospital-Filipino-Map.jpeg"/>
 
 <i> <b>IMAGE DESCRIPTION:</b> Satellite map of Toronto. 5 digitized blue polygons representing the 5 federal ridings in Toronto that have the highest per-capita Filipino population (per 2021 Census). Darker blue shades represent higher percentage, and lighter blue shades represent lower percentage. 10 digitized red lines with labels represent the 10 busiest bus routes from 2023 by ridership. Several digitized points (heart symbol in white circle) represent locations of hospitals in Toronto. Attribute table of the 10 lines is shown, with the list going in ascending order from 10th busiest to most busiest.</i>
 
